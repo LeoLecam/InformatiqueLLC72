@@ -1,0 +1,20 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #0a192f;
+    color: white;
+    text-align: center;
+}
+header {
+    background: linear-gradient(90deg, #007bff, #0056b3);
+    color: white;
+    padding: 20px;
+}
+nav {
+    background: #003366;
+    padding: 15px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
